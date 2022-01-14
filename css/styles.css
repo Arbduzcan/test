@@ -1,0 +1,26 @@
+body {
+  background-color: #D77FA1;
+}
+
+hr {
+  background-color: #D77FA1;
+  border-style: dotted none none;
+  height: 0px;
+  width: 10%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1 {
+  color: #FFF9F9;
+}
+
+h2 {
+  color: #FFF9F9;
+}
+
+.urmom {
+  display: block;
+  height: 200px;
+  border-radius: 95%
+}
